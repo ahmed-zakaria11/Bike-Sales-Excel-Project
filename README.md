@@ -68,3 +68,15 @@ The goal was to clean the dataset, perform exploratory analysis using pivot tabl
 📂 Screenshots
 📄 Bike Sales project.xlsx
 📄 README.md
+
+---
+
+## 🚀 How to Use
+1. Download the Bike Sales project.xlsx file  
+2. Open in Excel  
+3. Use slicers to filter by demographics and explore purchase patterns  
+
+---
+
+## 🔗 About This Project
+This project was developed as part of my data analysis practice portfolio. While built for learning purposes, it demonstrates professional-level use of Excel for data cleaning, pivot table analysis, and dashboard creation.
