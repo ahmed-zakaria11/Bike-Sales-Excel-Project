@@ -64,7 +64,7 @@ The goal was to clean the dataset, perform exploratory analysis using pivot tabl
 ---
 
 ## 📂 Repository Structure
-📂 Dataset/
-📂 Screenshots/
+📂 Dataset
+📂 Screenshots
 📄 Bike Sales project.xlsx
 📄 README.md
