@@ -60,7 +60,7 @@ The goal was to clean the dataset, perform exploratory analysis using pivot tabl
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.PNG)
 ---
 
 ## 📂 Repository Structure
