@@ -1,4 +1,4 @@
-# 🚲 Bike Sales Analysis – Excel Dashboard
+# 🏍️ Bike Sales Analysis – Excel Dashboard  
 
 ## 📌 Project Overview
 This project explores bike purchase behavior across different customer demographics using Excel. The dataset contained information such as income, occupation, marital status, gender, number of children, age group, education, region, and commute distance.  
